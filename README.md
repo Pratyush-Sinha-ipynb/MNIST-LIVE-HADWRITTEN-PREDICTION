@@ -1,5 +1,5 @@
 # MNIST-LIVE-HADWRITTEN-PREDICTION
-    This .ipynb file contains the code for a LIVE prediction model for MNIST handwritten digit identification model.
+This .ipynb file contains the code for a LIVE prediction model for MNIST handwritten digit identification model.
 The model uses a Convolution Neural Network for the processiing and identifying and training on the 60,000 images , and tested on the 10,000 provided images in the Tensorflow Dataset library.
 
 ## Architecture for the Neural Network :
